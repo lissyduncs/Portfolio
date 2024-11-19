@@ -1,0 +1,29 @@
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #282c34;
+    color: white;
+    font-size: 1rem;
+  }
+  
+  .footer p {
+    font-size: 0.8rem; /* Make the text smaller */
+    margin-top: 20px; /* Add more space above the text */
+    color: #c1a1c7; /* Optional: Make the text slightly lighter */
+  }
+  
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+  }
+  
+  .social-icons a {
+    color: rgb(232, 159, 227);
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #007bff; /* Add your preferred hover color */
+  }
